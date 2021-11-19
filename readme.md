@@ -15,7 +15,8 @@ go run main.go
 ## Admin Account
 
 email:admin@gmail.com
-password:admin123"
+
+password:admin123
 
 ## Documentation
 
